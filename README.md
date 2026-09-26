@@ -153,6 +153,11 @@ The Python workflow includes:
 
 ![Monthly Delivered Merchandise Value](reports/figures/monthly_delivered_gmv.png)
 
+### Top Product Categories by Merchandise Value
+
+![Top Product Categories by Merchandise Value](reports/figures/top_categories_by_gmv.png)
+
+
 ### Important Cleaning Decisions
 
 Missing values are **not blindly filled**.
