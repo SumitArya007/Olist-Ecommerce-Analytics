@@ -147,6 +147,12 @@ The Python workflow includes:
 - review-score validation,
 - purchase/delivery date validation.
 
+## Sample Analysis Output
+
+### Monthly Delivered Merchandise Value
+
+![Monthly Delivered Merchandise Value](reports/figures/monthly_delivered_gmv.png)
+
 ### Important Cleaning Decisions
 
 Missing values are **not blindly filled**.
