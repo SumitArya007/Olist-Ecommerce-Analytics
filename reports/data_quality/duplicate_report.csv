@@ -1,0 +1,9 @@
+dataset,rows,exact_duplicate_rows
+customers,99441,0
+orders,99441,0
+order_items,112650,0
+products,32951,0
+sellers,3095,0
+payments,103886,0
+reviews,99224,0
+category_translation,71,0

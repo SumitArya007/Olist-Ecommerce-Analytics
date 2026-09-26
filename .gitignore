@@ -1,0 +1,29 @@
+# Raw and generated datasets
+data/raw/*
+data/processed/*
+
+# Keep empty folders visible on GitHub
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# SQL Server local database / backup files
+*.mdf
+*.ldf
+*.bak
+
+# Excel temporary files
+~$*.xlsx

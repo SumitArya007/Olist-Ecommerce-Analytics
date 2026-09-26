@@ -1,0 +1,8 @@
+check,status
+Raw datasets loaded,PASS
+Exact duplicate rows reviewed,PASS
+Missing values profiled,PASS
+Referential integrity checked,PASS
+Business rules checked,PASS
+"Outliers flagged, not blindly deleted",PASS
+Processed CSV files exported,PASS
